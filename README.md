@@ -15,7 +15,7 @@
 * [Connor]()
 * [Parker]()
 * [Anthony]()
-* [Rishi]()
+* [Rishi](https://github.com/EPCompSci/portfolio-2020-rishi-n)
 * [Vincent]()
 * [Rachel]()
 * [Andrew]()
