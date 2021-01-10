@@ -13,7 +13,7 @@
 * [Gavin]()
 * [Jack]()
 * [Connor]()
-* [Parker]()
+* [Parker](https://github.com/EPCompSci/portfolio-2020-ParkerJ30)
 * [Anthony]()
 * [Rishi](https://github.com/EPCompSci/portfolio-2020-rishi-n)
 * [Vincent]()
