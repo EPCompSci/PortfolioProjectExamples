@@ -7,7 +7,7 @@
 * [Sarthak]()
 * [Niraj]()
 * [Jose]()
-* [Toby]()
+* [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
 * [Dhruv]()
 * [Adrian]()
 * [Gavin]()
