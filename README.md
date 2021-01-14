@@ -9,7 +9,7 @@
 * [Jose]()
 * [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
 * [Dhruv]()
-* [Adrian]()
+* [Adrian](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician)
 * [Gavin]()
 * [Jack]()
 * [Connor]()
