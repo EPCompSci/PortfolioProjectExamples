@@ -17,7 +17,7 @@
 * [Anthony]()
 * [Rishi](https://github.com/EPCompSci/portfolio-2020-rishi-n)
 * [Vincent](https://github.com/EPCompSci/portfolio-2020-Nagooy3n)
-* [Rachel](https://github.com/EPCompSci/portfolio-2020-rachelPark1.git)
+* [Rachel](https://github.com/EPCompSci/portfolio-2020-rachelPark1)
 * [Andrew](https://github.com/EPCompSci/portfolio-2020-andrewpeng02)
 * [Jacob]()
 * [Will]()
