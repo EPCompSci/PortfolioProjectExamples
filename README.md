@@ -22,7 +22,7 @@
 * [Jacob]()
 * [Will]()
 * [Pranaav]()
-* [Abhay]()
+* [Abhay](https://github.com/Swaghay/portfolio-2020-Swaghay)
 * [Martin]()
 
 ### Spring 2020
