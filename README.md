@@ -3,7 +3,7 @@
 ### Spring 2021
 * []()
 
-### Fall 2020
+### Fall 2020 - add your last name if you'd like
 * [Sarthak]()
 * [Niraj]()
 * [Jose]()
