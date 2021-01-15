@@ -8,7 +8,7 @@
 * [Niraj]()
 * [Jose]()
 * [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
-* [Dhruv]()
+* [Dhruv](https://github.com/EPCompSci/portfolio-2020-1201dc)
 * [Adrian](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician)
 * [Gavin]()
 * [Jack]()
