@@ -5,7 +5,7 @@
 
 ### Fall 2020 - add your last name if you'd like
 * [Sarthak](https://github.com/EPCompSci/portfolio-2020-sarthyparty)
-* [Niraj]()
+* [Niraj](https://github.com/EPCompSci/portfolio-2020-LifeDrain28)
 * [Jose]()
 * [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
 * [Dhruv](https://github.com/EPCompSci/portfolio-2020-1201dc)
