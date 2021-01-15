@@ -4,7 +4,7 @@
 * []()
 
 ### Fall 2020 - add your last name if you'd like
-* [Sarthak]()
+* [Sarthak](https://github.com/EPCompSci/portfolio-2020-sarthyparty)
 * [Niraj]()
 * [Jose]()
 * [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
