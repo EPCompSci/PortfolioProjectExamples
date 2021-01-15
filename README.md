@@ -12,7 +12,7 @@
 * [Adrian](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician)
 * [Gavin]()
 * [Jack]()
-* [Connor]()
+* [Connor](https://github.com/EPCompSci/portfolio-2020-connorholm/blob/master/README.md)
 * [Parker](https://github.com/EPCompSci/portfolio-2020-ParkerJ30)
 * [Anthony]()
 * [Rishi](https://github.com/EPCompSci/portfolio-2020-rishi-n)
