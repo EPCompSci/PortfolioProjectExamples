@@ -6,11 +6,11 @@
 ### Fall 2020 - add your last name if you'd like
 * [Sarthak](https://github.com/EPCompSci/portfolio-2020-sarthyparty)
 * [Niraj]()
-* [Jose](https://github.com/EPCompSci/portfolio-2020-jmblanco22)
+* [Jose]()
 * [Toby](https://github.com/EPCompSci/portfolio-2020-BuiToby)
 * [Dhruv](https://github.com/EPCompSci/portfolio-2020-1201dc)
 * [Adrian](https://github.com/EPCompSci/portfolio-2020-MerlinTheMafiaMortician)
-* [Gavin]()
+* [Gavin](https://github.com/EPCompSci/portfolio-2020-GavinEnglish)
 * [Jack]()
 * [Connor]()
 * [Parker](https://github.com/EPCompSci/portfolio-2020-ParkerJ30)
