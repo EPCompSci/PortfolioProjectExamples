@@ -21,7 +21,7 @@
 * [Andrew](https://github.com/EPCompSci/portfolio-2020-andrewpeng02)
 * [Jacob]()
 * [Will]()
-* [Pranaav]()
+* [Pranaav](https://github.com/EPCompSci/portfolio-2020-pranaav5)
 * [Abhay](https://github.com/Swaghay/portfolio-2020-Swaghay)
 * [Martin]()
 
