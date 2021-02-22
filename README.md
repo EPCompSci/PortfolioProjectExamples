@@ -34,6 +34,7 @@
 
 
 ### Fall 2018
+* [Nathaniel Ludwig](https://github.com/EPCompSci/ios-portfolio-NathanielLudwig)
 * [Imaad Khan](https://github.com/EPCompSci/ios-portfolio-imaadk)
 * [Anderson Chauphan](https://github.com/EPCompSci/ios-portfolio-chauphana)
 * [Anonymous](https://github.com/EPCompSci/ios-portfolio-90302956)
