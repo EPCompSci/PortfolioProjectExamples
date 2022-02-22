@@ -7,7 +7,7 @@
 * [Sai](https://github.com/SaiGuntabonu/iOS-Portfolio-Guntabonu22.git)
 
 
-### Fall 2020 - add your last name if you'd like
+### Fall 2020
 * [Sarthak](https://github.com/EPCompSci/portfolio-2020-sarthyparty)
 * [Niraj](https://github.com/EPCompSci/portfolio-2020-LifeDrain28)
 * [Jose](https://github.com/EPCompSci/portfolio-2020-jmblanco22)
