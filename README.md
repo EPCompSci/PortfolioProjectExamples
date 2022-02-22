@@ -1,7 +1,7 @@
 # PortfolioProjectExamples
 
 ### Spring 2022
-* []()
+* [Rishi](https://github.com/EPCompSci/portfolio-rishi-n/blob/master/README.md)
 
 ### Fall 2020 - add your last name if you'd like
 * [Sarthak](https://github.com/EPCompSci/portfolio-2020-sarthyparty)
