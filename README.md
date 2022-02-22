@@ -9,6 +9,7 @@
 * [Danny](https://github.com/dannydxu1/iOS-Portfolio-Xu22)
 * [Cole](https://github.com/colenelson33/iOS-Portfolio-Nelson22)
 * [Max](https://github.com/colenelson33/iOS-Portfolio-Johnson22)
+* [Elliott](https://github.com/ElliottB678/IOS-Portfolio-Brown22)
 
 
 
