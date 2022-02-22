@@ -5,6 +5,7 @@
 * [Bilal](https://github.com/BillA-Dev/iOS-Portfolio-Ahmed22/blob/main/README.md)
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
 * [Sai](https://github.com/SaiGuntabonu/iOS-Portfolio-Guntabonu22.git)
+* [Danny](https://github.com/dannydxu1/iOS-Portfolio-Xu22)
 
 
 ### Fall 2020
