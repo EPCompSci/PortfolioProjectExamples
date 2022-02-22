@@ -6,7 +6,7 @@
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
 * [Rohit](https://github.com/RohitP123/iOS-Portfolio-Patil22)
 * [Sai](https://github.com/SaiGuntabonu/iOS-Portfolio-Guntabonu22.git)
->>>>>> main
+
 
 
 ### Fall 2020
