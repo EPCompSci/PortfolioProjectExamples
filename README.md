@@ -6,6 +6,7 @@
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
 * [Rohit](https://github.com/RohitP123/iOS-Portfolio-Patil22)
 * [Sai](https://github.com/SaiGuntabonu/iOS-Portfolio-Guntabonu22.git)
+* [Danny](https://github.com/dannydxu1/iOS-Portfolio-Xu22)
 
 
 
