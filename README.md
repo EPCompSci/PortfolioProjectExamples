@@ -7,6 +7,8 @@
 * [Rohit](https://github.com/RohitP123/iOS-Portfolio-Patil22)
 * [Sai](https://github.com/SaiGuntabonu/iOS-Portfolio-Guntabonu22.git)
 * [Danny](https://github.com/dannydxu1/iOS-Portfolio-Xu22)
+* [Cole](https://github.com/colenelson33/iOS-Portfolio-Nelson22)
+* [Max](https://github.com/colenelson33/iOS-Portfolio-Johnson22)
 
 
 
