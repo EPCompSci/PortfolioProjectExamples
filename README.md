@@ -21,6 +21,9 @@
 * [Matt](https://github.com/mflzo/iOS-Portfolio-Falzone22)
 * [Will](https://github.com/WillPeyer/WPeyerPortfolio22/)
 * [Haley](https://github.com/90306479/iOSPortfolio.git)
+* [Jake S.](https://github.com/JakE-fiSh/Portfolio)
+* [Reagan](https://github.com/ReaganPawlyszyn1/Whisk-d)
+
 
 
 
