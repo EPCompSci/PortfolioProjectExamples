@@ -19,6 +19,7 @@
 * [Adhava](https://github.com/Adhava805/IOS-Portfolio-Nandhiyar22)
 * [Varun](https://github.com/VarunKollipara/iOS-Portfolio-Kollipara22)
 * [Matt](https://github.com/mflzo/iOS-Portfolio-Falzone22)
+* [Will](https://github.com/WillPeyer/WPeyerPortfolio22/)
 
 
 
