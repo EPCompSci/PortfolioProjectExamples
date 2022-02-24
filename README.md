@@ -1,7 +1,7 @@
 # PortfolioProjectExamples
 
 ### Spring 2022
-
+* [Evan](https://github.com/EvanRista/iOS-Portfolio/blob/main/README.md)
 * [Bilal](https://github.com/BillA-Dev/iOS-Portfolio-Ahmed22/blob/main/README.md)
 * [Rishi](https://github.com/EPCompSci/portfolio-rishi-n)
 * [Rohit](https://github.com/RohitP123/iOS-Portfolio-Patil22)
